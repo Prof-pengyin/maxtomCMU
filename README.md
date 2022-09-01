@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**borongyuan/borongyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maxtomCMU/maxtomCMU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Borong's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=borongyuan&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=borongyuan&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![github contribution grid snake animation](https://raw.githubusercontent.com/borongyuan/borongyuan/output/github-contribution-grid-snake.svg)
+![Borong's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=maxtomCMU&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maxtomCMU&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
